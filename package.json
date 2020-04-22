@@ -1,0 +1,19 @@
+{
+  "name": "pugstagram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiguelAngelMP/pugstagram.git"
+  },
+  "author": "Miguel Angel Munoz Pozos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiguelAngelMP/pugstagram/issues"
+  },
+  "homepage": "https://github.com/MiguelAngelMP/pugstagram#readme"
+}
