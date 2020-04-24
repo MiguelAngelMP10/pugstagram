@@ -1,3 +1,8 @@
+<script>
+  export let nickname;
+  export let name;
+</script>
+
 <style>
   .Profile-content {
     display: flex;
@@ -32,8 +37,8 @@
     </div>
 
     <div class="Profile-info">
-      <h2>MiguelAngelMP</h2>
-      <span>Miguel Ángel Muñoz Pozos</span>
+      <h2>{nickname}</h2>
+      <span>{name}</span>
     </div>
   </div>
 </div>
