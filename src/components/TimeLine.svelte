@@ -15,7 +15,7 @@
     {#each posts as post}
       <Card {...post} />
     {:else}
-      <p>Loading...</p>
+      <p>Loading..............</p>
     {/each}
   </div>
 

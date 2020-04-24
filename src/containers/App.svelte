@@ -35,6 +35,6 @@
 
 <Header />
 <Main>
-  <TimeLine posts={data.post} />
+  <TimeLine posts={data.posts} />
   <Sidebar {...data.user} />
 </Main>

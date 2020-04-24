@@ -86,7 +86,7 @@
   .Card-description span {
     font-size: 14px;
   }
-  .active-like {
+  /* .active-like {
     color: #bc1888;
     animation: bounce linear 0.8s;
     animation-iteration-count: 1;
@@ -94,7 +94,7 @@
   }
   .active-bookmark {
     color: #f09433;
-  }
+  } */
 
   @keyframes bounce {
     0% {
